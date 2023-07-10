@@ -1,2 +1,2 @@
-# clone-copy
+
 practice projects 
